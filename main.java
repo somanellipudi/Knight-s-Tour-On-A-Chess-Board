@@ -1,7 +1,7 @@
     /*
      * Complete the function below.
      */
-    static int find_minimum_number_of_moves(int rows, int cols, int start_row, int start_col, int end_row, int end_col) {
+    static int find_number_of_reaches(int rows, int cols, int start_row, int start_col, int end_row, int end_col) {
         // Write your code here.
         
         int result = 0;
